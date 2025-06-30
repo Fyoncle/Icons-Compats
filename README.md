@@ -1,4 +1,9 @@
 ## This resourcepack adds [Icons](https://modrinth.com/resourcepack/icons) compatibility to mods!
+<div align="center">
+
+<img src="https://cdn.modrinth.com/data/cached_images/2482f56503a2b549fcde109e63750000bf1335a6.png" width="600">
+
+</div>
 
 ### Compatibility List:
 
@@ -113,6 +118,6 @@ The mod you need compatibility for isn't there? **Open a suggestion on [GitHub](
 
 #
 
-### Future Plans
+### Future Plans:
 
 - Adding support for biome icons to mods like Regions Unexplored, Biomes O' Plenty, Oh The Biomes We've Gone, Incendium, Nullscape and more. Though I'm not experienced that much in pixel art yet, I don't know when that will be.
