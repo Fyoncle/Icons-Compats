@@ -1,9 +1,16 @@
 ## This resourcepack adds [Icons](https://modrinth.com/resourcepack/icons) compatibility to mods!
+
 <div align="center">
 
-<img src="https://cdn.modrinth.com/data/cached_images/2482f56503a2b549fcde109e63750000bf1335a6.png" width="600">
+<img src="https://cdn.modrinth.com/data/cached_images/2482f56503a2b549fcde109e63750000bf1335a6.png" width="600"><br>
+
+<a href="https://modrinth.com/modpack/elysium-days" target="_blank" rel="noopener noreferrer">
+  <img src="https://wsrv.nl/?url=https://raw.githubusercontent.com/Fyoncle/Elysium-Days/ae9136ed921e408ba768262fb8afb24d9ad47d94/ed_vector.svg" alt="As seen in Elysium Days">
+</a>
 
 </div>
+
+#
 
 ### Compatibility List:
 
@@ -20,11 +27,41 @@
       <b><a href="https://modrinth.com/mod/modmenu">Mod Menu</a></b>
     </td>
   </tr>
+  <tr>
+    <td>
+      <a href="https://modrinth.com/mod/elysium-core">
+        <img src="https://cdn.modrinth.com/data/UCovMYfx/31be7cae9c78af7ce00417ba4f9670ed18c3bed1_96.webp" width="32">
+      </a>
+    </td>
+    <td>
+      <b><a href="https://modrinth.com/mod/elysium-core">Elysium Core</a></b>
+    </td>
+  </tr>
   </table>
 
 **Music Disc Tooltip Compats:**
 
    <table>
+   <tr>
+    <td>
+      <a href="https://modrinth.com/mod/biomes-o-plenty">
+        <img src="https://cdn.modrinth.com/data/HXF82T3G/ffb870e12c325b795d54833f8f899126553ef06f.png" width="32">
+      </a>
+    </td>
+    <td>
+      <b><a href="https://modrinth.com/mod/biomes-o-plenty">Biomes O' Plenty</a></b>
+    </td>
+    </tr>
+    <tr>
+    <td>
+      <a href="https://modrinth.com/mod/ends-phantasm">
+        <img src="https://cdn.modrinth.com/data/JGfljjtd/87262a2ee2887548c65e32e9462e15178abdcfa9_96.webp" width="32">
+      </a>
+    </td>
+    <td>
+      <b><a href="https://modrinth.com/mod/ends-phantasm">End's Phantasm</a></b>
+    </td>
+    </tr>
    <tr>
     <td>
       <a href="https://modrinth.com/mod/purediscstrailstales">
@@ -34,7 +71,7 @@
     <td>
       <b><a href="https://modrinth.com/mod/purediscstrailstales">Pure Discs - Trails & Tales</a></b>
     </td>
-  </tr>
+    </tr>
      <tr>
     <td>
       <a href="https://modrinth.com/mod/purediscstrickytrials">
@@ -53,6 +90,16 @@
     </td>
     <td>
       <b><a href="https://modrinth.com/mod/supplementaries">Supplementaries</a></b>
+    </td>
+  </tr>
+   <tr>
+    <td>
+      <a href="https://modrinth.com/mod/happy-ghast-legacy">
+        <img src="https://cdn.modrinth.com/data/zi5opIfD/f728b8bfc8205fe5e508c055a03792acee65d003_96.webp" width="32">
+      </a>
+    </td>
+    <td>
+      <b><a href="https://modrinth.com/mod/happy-ghast-legacy">Happy Ghast Legacy</a></b>
     </td>
   </tr>
    <tr>
@@ -105,6 +152,26 @@
       <b><a href="https://modrinth.com/mod/eternal-nether">Eternal Nether</a></b>
     </td>
   </tr>
+   <tr>
+    <td>
+      <a href="https://modrinth.com/mod/gipples-galore">
+        <img src="https://cdn.modrinth.com/data/QYfKDJOV/72721f5d83b1c161068493763f072f43d535cc69_96.webp" width="32">
+      </a>
+    </td>
+    <td>
+      <b><a href="https://modrinth.com/mod/gipples-galore">Gipples Galore</a></b>
+    </td>
+  </tr>
+   <tr>
+    <td>
+      <a href="https://modrinth.com/mod/snowy-spirit">
+        <img src="https://cdn.modrinth.com/data/UiFDlI7w/1dd68c373faa090acd45e26ae3ad16bb3f33b094_96.webp" width="32">
+      </a>
+    </td>
+    <td>
+      <b><a href="https://modrinth.com/mod/snowy-spirit">Snowy Spirit</a></b>
+    </td>
+  </tr>
   </table>
 
 #
@@ -120,4 +187,4 @@ The mod you need compatibility for isn't there? **Open a suggestion on [GitHub](
 
 ### Future Plans:
 
-- Adding support for biome icons to mods like Regions Unexplored, Biomes O' Plenty, Oh The Biomes We've Gone, Incendium, Nullscape and more. Though I'm not experienced that much in pixel art yet, I don't know when that will be.
+- Adding support for biome icons to mods like Regions Unexplored, Biomes O' Plenty, Oh The Biomes We've Gone, Incendium, End's Phantasm, Nullscape and more. Though I'm not experienced that much in pixel art yet, I don't know when that will be.
