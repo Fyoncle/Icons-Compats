@@ -44,6 +44,16 @@
    <table>
    <tr>
     <td>
+      <a href="https://modrinth.com/mod/vanillabackport">
+        <img src="https://cdn.modrinth.com/data/6xwxDTgf/9c61bb3279148b1c783ffff89a5cf4cf6c1dd773_96.webp" width="32">
+      </a>
+    </td>
+    <td>
+      <b><a href="https://modrinth.com/mod/vanillabackport">Vanilla Backport</a></b>
+    </td>
+    </tr>
+   <tr>
+    <td>
       <a href="https://modrinth.com/mod/biomes-o-plenty">
         <img src="https://cdn.modrinth.com/data/HXF82T3G/ffb870e12c325b795d54833f8f899126553ef06f.png" width="32">
       </a>
@@ -60,6 +70,16 @@
     </td>
     <td>
       <b><a href="https://modrinth.com/mod/ends-phantasm">End's Phantasm</a></b>
+    </td>
+    </tr>
+    <tr>
+    <td>
+      <a href="https://modrinth.com/mod/backported-discs">
+        <img src="https://cdn.modrinth.com/data/W4vtjnfp/6f764f13c8e50c72e28d041e31afff57e3d69787_96.webp" width="32">
+      </a>
+    </td>
+    <td>
+      <b><a href="https://modrinth.com/mod/backported-discs">Backported Discs</a></b>
     </td>
     </tr>
    <tr>
