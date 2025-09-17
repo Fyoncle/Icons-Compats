@@ -154,6 +154,16 @@
   </tr>
     <tr>
     <td>
+      <a href="https://modrinth.com/mod/it-takes-a-pillage-continuation">
+        <img src="https://cdn.modrinth.com/data/QOJOg1gE/305970c55e689be5950c9cdf60fa08c49c8cad7b_96.webp" width="32">
+      </a>
+    </td>
+    <td>
+      <b><a href="https://modrinth.com/mod/it-takes-a-pillage-continuation">It Takes a Pillage Continuation</a></b>
+    </td>
+  </tr>
+    <tr>
+    <td>
       <a href="https://modrinth.com/mod/bygone-nether">
         <img src="https://cdn.modrinth.com/data/kt3BLgXB/6323060551684be5f2ec470fa4b5ec9fd25e7d29_96.webp" width="32">
       </a>
