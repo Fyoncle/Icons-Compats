@@ -2,8 +2,7 @@
 
 ![Banner](https://cdn.modrinth.com/data/cached_images/b3f92110ea4e8737944f2160ad73b83246a05582_0.webp)
 
-<a href="https://modrinth.com/modpack/elysium-days" target="_blank" rel="noopener noreferrer"> <img src="https://raw.githubusercontent.com/Fyoncle/Elysium-Days/ae9136ed921e408ba768262fb8afb24d9ad47d94/ed_vector.svg"> </a> ⠀⠀
-<a href="https://modrinth.com/resourcepack/icons"> <img src="https://gistcdn.githack.com/Zartrix/84d5a34dd0fc834c2794a3d46282114a/raw/17b09b8bfbc667ea19b84ccd73690f104cb7e06c/icon.svg" width="240"> </a>
+<a href="https://modrinth.com/modpack/elysium-days" target="_blank" rel="noopener noreferrer"> <img src="https://raw.githubusercontent.com/Fyoncle/Elysium-Days/ae9136ed921e408ba768262fb8afb24d9ad47d94/ed_vector.svg"> </a>
 
 </div>
 
