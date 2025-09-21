@@ -66,5 +66,5 @@ The mod you need compatibility for isn't there? **Open a suggestion on [GitHub](
 
 ### Credits:
 
-- Some icons were taken from Icons with permission and modified to work with their mod counter-parts.
-- That incredible logo for Icons Compats is made by [Vixel](https://modrinth.com/user/Vixel)!
+- Some icons were taken from [Icons](https://modrinth.com/resourcepack/icons) with permission and modified to work with their mod counter-parts.
+- That incredible logo of Icons Compats is made by [Vixel](https://modrinth.com/user/Vixel)!
