@@ -10,7 +10,7 @@
 
 This is a resourcepack that adds [Icons](https://modrinth.com/resourcepack/icons) compatibility for various mods so that they look prettier!
 
-As of [version 8.0](https://modrinth.com/resourcepack/icons-compats/version/8.0) this resourcepack also integrates with [Respackopts](https://modrinth.com/mod/respackopts) so you can toggle every compatibility you want!
+As of [version 8.0](https://modrinth.com/resourcepack/icons-compats/version/8.0) this resourcepack also integrates with [Respackopts](https://modrinth.com/mod/respackopts) so you can toggle every compatibility you want!  
 And as of [version 9.0](https://modrinth.com/resourcepack/icons-compats/version/9.0) this resourcepack also let's you disable Food Tooltips of Icons in favor of AppleSkin mod.
 
 # Compatibility List
