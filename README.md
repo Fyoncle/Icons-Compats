@@ -46,6 +46,7 @@ And as of [version 9.0](https://modrinth.com/resourcepack/icons-compats/version/
 | <img src="https://cdn.modrinth.com/data/b8kG1VGq/7ee046278d6884fe7fb7c4e72cf35eae22ecd4a2_96.webp" width="32"> | [Aileron](https://modrinth.com/mod/aileron) | 🚫 | 🚫 | ✅ | 🚫 |
 | <img src="https://cdn.modrinth.com/data/vI1QKJro/e64111a7ee741940fdc5329b666a3b76845e461e_96.webp" width="32"> | [Nether Depths Upgrade](https://modrinth.com/mod/nether-depths-upgrade) | 🚫 | 🚫 | ✅ | 🚫 |
 | <img src="https://cdn.modrinth.com/data/HnD1GX6e/a03a09e4f94b4b680b586df36c35dd68a10b187e_96.webp" width="32"> | [You're in Grave Danger](https://modrinth.com/mod/yigd) | 🚫 | 🚫 | ✅ | 🚫 |
+| <img src="https://cdn.modrinth.com/data/kjeo1Vlk/af829c205fc3f0386eafb834304f3975b1559772.png" width="32"> | [Chai's Elytra Enchants](https://modrinth.com/mod/chais-elytra-enchants) | 🚫 | 🚫 | ✅ | 🚫 |
 
 <!-- prettier-ignore-end -->
 
