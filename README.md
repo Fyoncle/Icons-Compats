@@ -6,7 +6,7 @@
   <img src="https://raw.githubusercontent.com/Fyoncle/Elysium-Days/main/ed_badge.png" alt="As seen in Elysium Days" width="200">
 </a>
 
-#
+---
 
 This is a resourcepack that adds [Icons](https://modrinth.com/resourcepack/icons) compatibility for various mods so that they look prettier!
 
@@ -42,7 +42,7 @@ As of [version v8.0](https://modrinth.com/resourcepack/icons-compats/version/8.0
 | <img src="https://cdn.modrinth.com/data/UiFDlI7w/1dd68c373faa090acd45e26ae3ad16bb3f33b094_96.webp" width="32"> | [Snowy Spirit](https://modrinth.com/mod/snowy-spirit) | ✅ | ⬛ | ⬛ | ⬛ |
 | <img src="https://cdn.modrinth.com/data/CFX9ftUJ/a6ab22b94673ec7f080ab893bd3d120db7fa05c3_96.webp" width="32"> | [Advanced Netherite](https://modrinth.com/mod/advanced-netherite) | ⬛ | ✅ | ⬛ | ⬛ |
 | <img src="https://cdn.modrinth.com/data/fnAffV0n/be8023f374038c6bd8a52a0e5b2cbc4eb1a37746_96.webp" width="32"> | [Deeper and Darker](https://modrinth.com/mod/deeperdarker) | ⬛ | ✅ | ✅ | ⬛ |
-| <img src="https://cdn.modrinth.com/data/nDFVOeq7/84ae7ac113b56081e0d6da1e27acaa677f961e7e_96.webp" width="32"> | [Simple Netherite Horse Armor](https://modrinth.com/mod/simple-netherite-horse-armor) | ⬛ | ✅ | ⬛ | ⬛ |
+| <img src="https://cdn.modrinth.com/data/nDFVOeq7/e5b91cdcb14e9be07420ceccf766bd71c3c98849_96.webp" width="32"> | [Simple Netherite Horse Armor](https://modrinth.com/mod/simple-netherite-horse-armor) | ⬛ | ✅ | ⬛ | ⬛ |
 | <img src="https://cdn.modrinth.com/data/d6MhxwRo/04b84b747ee4d3f66960d42f6014c2030b26e3ea_96.webp" width="32"> | [Soul Fire'd](https://modrinth.com/mod/soul-fire-d) | ⬛ | ⬛ | ✅ | ⬛ |
 | <img src="https://cdn.modrinth.com/data/bRAPbNyF/35aee97b92478e08c3fd96ceed2d16c4f8d036b3.png" width="32"> | [Vein Mining](https://modrinth.com/mod/vein-mining) | ⬛ | ⬛ | ✅ | ⬛ |
 | <img src="https://cdn.modrinth.com/data/aV1COQ7a/4c4ceb43a1588b9ddf7ff76c39358be1d58bdd66_96.webp" width="32"> | [Guarding](https://modrinth.com/mod/guarding) | ⬛ | ⬛ | ✅ | ⬛ |
@@ -50,10 +50,10 @@ As of [version v8.0](https://modrinth.com/resourcepack/icons-compats/version/8.0
 | <img src="https://cdn.modrinth.com/data/vI1QKJro/e64111a7ee741940fdc5329b666a3b76845e461e_96.webp" width="32"> | [Nether Depths Upgrade](https://modrinth.com/mod/nether-depths-upgrade) | ⬛ | ⬛ | ✅ | ⬛ |
 | <img src="https://cdn.modrinth.com/data/HnD1GX6e/a03a09e4f94b4b680b586df36c35dd68a10b187e_96.webp" width="32"> | [You're in Grave Danger](https://modrinth.com/mod/yigd) | ⬛ | ⬛ | ✅ | ⬛ |
 | <img src="https://cdn.modrinth.com/data/kjeo1Vlk/af829c205fc3f0386eafb834304f3975b1559772.png" width="32"> | [Chai's Elytra Enchants](https://modrinth.com/mod/chais-elytra-enchants) | ⬛ | ⬛ | ✅ | ⬛ |
-| <img src="https://cdn.modrinth.com/data/6xwxDTgf/e7cc4d722b8549953ca961f4b2e8da93db24c9f0_96.webp" width="32"> | [Vanilla Backport](https://modrinth.com/mod/vanillabackport) | ✅ | ⬛ | ⬛ | ⬛ |
+| <img src="https://cdn.modrinth.com/data/7vxePowz/26e8448993e9bda4dba92b6e7a1a13d9c4333138.png" width="32"> | [Farmer's Delight Refabricated](https://modrinth.com/mod/farmers-delight-refabricated) | ⬛ | ⬛ | ✅ | ⬛ |
 <!-- prettier-ignore-end -->
 
-#
+---
 
 <a href="https://github.com/Fyoncle/Icons-Compats" rel="noopener nofollow ugc">
 <img src="https://wsrv.nl/?url=https://i.ibb.co/N9s5hz1/github.png" alt="GitHub"></a> 
@@ -61,9 +61,11 @@ As of [version v8.0](https://modrinth.com/resourcepack/icons-compats/version/8.0
 The mod you need compatibility for isn't there? **Open a suggestion on [GitHub](https://github.com/Fyoncle/Icons-Compats/issues/new?template=feature_request.yml)!**
 </div>
 
-#
+---
 
 ### Credits:
 
 - Some icons were taken from [Icons](https://modrinth.com/resourcepack/icons) with permission and modified to fit their modded counter-parts.
 - That incredible logo of Icons Compats is made by [Vixel](https://modrinth.com/user/Vixel)!
+
+![Permission](https://cdn.modrinth.com/data/cached_images/0acb0eb29b71cf34d9d1034707c098dcd23f7760.png)
