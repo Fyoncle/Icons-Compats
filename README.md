@@ -51,6 +51,9 @@ As of [version v8.0](https://modrinth.com/resourcepack/icons-compats/version/8.0
 | <img src="https://cdn.modrinth.com/data/HnD1GX6e/a03a09e4f94b4b680b586df36c35dd68a10b187e_96.webp" width="32"> | [You're in Grave Danger](https://modrinth.com/mod/yigd) | ⬛ | ⬛ | ✅ | ⬛ |
 | <img src="https://cdn.modrinth.com/data/kjeo1Vlk/af829c205fc3f0386eafb834304f3975b1559772.png" width="32"> | [Chai's Elytra Enchants](https://modrinth.com/mod/chais-elytra-enchants) | ⬛ | ⬛ | ✅ | ⬛ |
 | <img src="https://cdn.modrinth.com/data/7vxePowz/26e8448993e9bda4dba92b6e7a1a13d9c4333138.png" width="32"> | [Farmer's Delight Refabricated](https://modrinth.com/mod/farmers-delight-refabricated) | ⬛ | ⬛ | ✅ | ⬛ |
+| <img src="https://cdn.modrinth.com/data/btCrWvHr/2981bba805f7c2604b09974d20e566d3ba3b3cdc_96.webp" width="32"> | [Enderscape](https://modrinth.com/mod/enderscape) | ✅ | ⬛ | ❌ | ⬛ |
+| <img src="https://cdn.modrinth.com/data/POQ2i9zu/0d5db692d86ca2f99935ebc01123d4c55a714122_96.webp" width="32"> | [Friends&Foes](https://modrinth.com/mod/friends-and-foes) | ✅ | ⬛ | ⬛ | ⬛ |
+| <img src="https://cdn.modrinth.com/data/zCh7omyG/6e077f9529b6789aed7696655d8fd84758e1b54e_96.webp" width="32"> | [Better Archeology](https://modrinth.com/mod/better-archeology) | ✅ | ⬛ | ❌ | ⬛ |
 <!-- prettier-ignore-end -->
 
 ---
