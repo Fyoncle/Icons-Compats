@@ -10,7 +10,7 @@
 
 This is a resourcepack that adds [Icons](https://modrinth.com/resourcepack/icons) compatibility for various mods so that they look prettier!
 
-As of [version v8.0](https://modrinth.com/resourcepack/icons-compats/version/8.0) this resourcepack also integrates with [Respackopts](https://modrinth.com/mod/respackopts) so you can toggle every compatibility you want!
+It also integrates with [Respackopts](https://modrinth.com/mod/respackopts) so you can toggle every compatibility you want!
 
 # Compatibility List
 
@@ -21,39 +21,45 @@ As of [version v8.0](https://modrinth.com/resourcepack/icons-compats/version/8.0
 ⬛ - Doesn't Exist
 
 <!-- prettier-ignore-start -->
-| Icon | Mod Name | Music Discs | Armor Tooltips | Enchant Icons | Other |
-|------|----------|-------------|----------------|---------------|-------|
-| <img src="https://cdn.modrinth.com/data/mOgUt4GM/5a20ed1450a0e1e79a1fe04e61bb4e5878bf1d20.png" width="32"> | [Mod Menu](https://modrinth.com/mod/modmenu) | ⬛ | ⬛ | ⬛ | ✅ |
-| <img src="https://cdn.modrinth.com/data/UCovMYfx/4be6ede472999ac6a361e42701d5c976fcd78a34_96.webp" width="32"> | [Elysium Core](https://modrinth.com/mod/elysium-core) | ⬛ | ⬛ | ⬛ | ✅ |
-| <img src="https://cdn.modrinth.com/data/HXF82T3G/ffb870e12c325b795d54833f8f899126553ef06f.png" width="32"> | [Biomes O' Plenty](https://modrinth.com/mod/biomes-o-plenty) | ✅ | ⬛ | ⬛ | ⬛ |
-| <img src="https://cdn.modrinth.com/data/JGfljjtd/87262a2ee2887548c65e32e9462e15178abdcfa9_96.webp" width="32"> | [End's Phantasm](https://modrinth.com/mod/ends-phantasm) | ✅ | ⬛ | ⬛ | ⬛ |
-| <img src="https://cdn.modrinth.com/data/W4vtjnfp/6f764f13c8e50c72e28d041e31afff57e3d69787_96.webp" width="32"> | [Backported Discs](https://modrinth.com/mod/backported-discs) | ✅ | ⬛ | ⬛ | ⬛ |
-| <img src="https://cdn.modrinth.com/data/iSN6eXzl/4a4cf15fa372a119ac6342ef5435caf0272e2ac6.gif" width="32"> | [Pure Discs - Trails & Tales](https://modrinth.com/mod/purediscstrailstales) | ✅ | ⬛ | ⬛ | ⬛ |
-| <img src="https://cdn.modrinth.com/data/W3alKOSq/5c7a7134e3c46ab3f269d812ef47a17f3730ba4b.gif" width="32"> | [Pure Discs - Tricky Trials](https://modrinth.com/mod/purediscstrickytrials) | ✅ | ⬛ | ⬛ | ⬛ |
-| <img src="https://cdn.modrinth.com/data/fFEIiSDQ/e9f5f66fa3b67e54acb91258a1428d68311c58bc_96.webp" width="32"> | [Supplementaries](https://modrinth.com/mod/supplementaries) | ✅ | ⬛ | ✅ | ⬛ |
-| <img src="https://cdn.modrinth.com/data/zi5opIfD/f728b8bfc8205fe5e508c055a03792acee65d003_96.webp" width="32"> | [Happy Ghast Legacy](https://modrinth.com/mod/happy-ghast-legacy) | ✅ | ⬛ | ⬛ | ⬛ |
-| <img src="https://cdn.modrinth.com/data/HaIJSYr6/daef59825cebd044d07629c4befb18c86c476cae_96.webp" width="32"> | [Snow Pig (Fabric)](https://modrinth.com/mod/snowpig-fabric) | ✅ | ⬛ | ⬛ | ⬛ |
-| <img src="https://cdn.modrinth.com/data/k23mNPhZ/e33ffb391c8c05f1ea99b09d00d5369e0ac44ae7_96.webp" width="32"> | [Aquamirae](https://modrinth.com/mod/aquamirae) | ✅ | ❌ | ⬛ | ⬛ |
-| <img src="https://cdn.modrinth.com/data/QivVPB8W/0549285b940156bca595f49a05aaf22916e87b0f_96.webp" width="32"> | [The Graveyard (Fabric)](https://modrinth.com/mod/the-graveyard-fabric) | ✅ | ⬛ | ⬛ | ⬛ |
-| <img src="https://cdn.modrinth.com/data/QOJOg1gE/305970c55e689be5950c9cdf60fa08c49c8cad7b_96.webp" width="32"> | [It Takes a Pillage Continuation](https://modrinth.com/mod/it-takes-a-pillage-continuation) | ✅ | ⬛ | ⬛ | ⬛ |
-| <img src="https://cdn.modrinth.com/data/kt3BLgXB/6323060551684be5f2ec470fa4b5ec9fd25e7d29_96.webp" width="32"> | [Bygone Nether](https://modrinth.com/mod/bygone-nether) | ✅ | ⬛ | ⬛ | ⬛ |
-| <img src="https://cdn.modrinth.com/data/s6R4jmL8/cd258579b012c6c7f9088538e88bff8245c6b63c_96.webp" width="32"> | [Eternal Nether](https://modrinth.com/mod/eternal-nether) | ✅ | ⬛ | ⬛ | ⬛ |
-| <img src="https://cdn.modrinth.com/data/QYfKDJOV/72721f5d83b1c161068493763f072f43d535cc69_96.webp" width="32"> | [Gipples Galore](https://modrinth.com/mod/gipples-galore) | ✅ | ⬛ | ⬛ | ⬛ |
-| <img src="https://cdn.modrinth.com/data/UiFDlI7w/1dd68c373faa090acd45e26ae3ad16bb3f33b094_96.webp" width="32"> | [Snowy Spirit](https://modrinth.com/mod/snowy-spirit) | ✅ | ⬛ | ⬛ | ⬛ |
-| <img src="https://cdn.modrinth.com/data/CFX9ftUJ/a6ab22b94673ec7f080ab893bd3d120db7fa05c3_96.webp" width="32"> | [Advanced Netherite](https://modrinth.com/mod/advanced-netherite) | ⬛ | ✅ | ⬛ | ⬛ |
-| <img src="https://cdn.modrinth.com/data/fnAffV0n/be8023f374038c6bd8a52a0e5b2cbc4eb1a37746_96.webp" width="32"> | [Deeper and Darker](https://modrinth.com/mod/deeperdarker) | ⬛ | ✅ | ✅ | ⬛ |
-| <img src="https://cdn.modrinth.com/data/nDFVOeq7/e5b91cdcb14e9be07420ceccf766bd71c3c98849_96.webp" width="32"> | [Simple Netherite Horse Armor](https://modrinth.com/mod/simple-netherite-horse-armor) | ⬛ | ✅ | ⬛ | ⬛ |
-| <img src="https://cdn.modrinth.com/data/d6MhxwRo/04b84b747ee4d3f66960d42f6014c2030b26e3ea_96.webp" width="32"> | [Soul Fire'd](https://modrinth.com/mod/soul-fire-d) | ⬛ | ⬛ | ✅ | ⬛ |
-| <img src="https://cdn.modrinth.com/data/bRAPbNyF/35aee97b92478e08c3fd96ceed2d16c4f8d036b3.png" width="32"> | [Vein Mining](https://modrinth.com/mod/vein-mining) | ⬛ | ⬛ | ✅ | ⬛ |
-| <img src="https://cdn.modrinth.com/data/aV1COQ7a/4c4ceb43a1588b9ddf7ff76c39358be1d58bdd66_96.webp" width="32"> | [Guarding](https://modrinth.com/mod/guarding) | ⬛ | ⬛ | ✅ | ⬛ |
-| <img src="https://cdn.modrinth.com/data/b8kG1VGq/7ee046278d6884fe7fb7c4e72cf35eae22ecd4a2_96.webp" width="32"> | [Aileron](https://modrinth.com/mod/aileron) | ⬛ | ⬛ | ✅ | ⬛ |
-| <img src="https://cdn.modrinth.com/data/vI1QKJro/e64111a7ee741940fdc5329b666a3b76845e461e_96.webp" width="32"> | [Nether Depths Upgrade](https://modrinth.com/mod/nether-depths-upgrade) | ⬛ | ⬛ | ✅ | ⬛ |
-| <img src="https://cdn.modrinth.com/data/HnD1GX6e/a03a09e4f94b4b680b586df36c35dd68a10b187e_96.webp" width="32"> | [You're in Grave Danger](https://modrinth.com/mod/yigd) | ⬛ | ⬛ | ✅ | ⬛ |
-| <img src="https://cdn.modrinth.com/data/kjeo1Vlk/af829c205fc3f0386eafb834304f3975b1559772.png" width="32"> | [Chai's Elytra Enchants](https://modrinth.com/mod/chais-elytra-enchants) | ⬛ | ⬛ | ✅ | ⬛ |
-| <img src="https://cdn.modrinth.com/data/7vxePowz/26e8448993e9bda4dba92b6e7a1a13d9c4333138.png" width="32"> | [Farmer's Delight Refabricated](https://modrinth.com/mod/farmers-delight-refabricated) | ⬛ | ⬛ | ✅ | ⬛ |
-| <img src="https://cdn.modrinth.com/data/btCrWvHr/2981bba805f7c2604b09974d20e566d3ba3b3cdc_96.webp" width="32"> | [Enderscape](https://modrinth.com/mod/enderscape) | ✅ | ⬛ | ❌ | ⬛ |
-| <img src="https://cdn.modrinth.com/data/POQ2i9zu/0d5db692d86ca2f99935ebc01123d4c55a714122_96.webp" width="32"> | [Friends&Foes](https://modrinth.com/mod/friends-and-foes) | ✅ | ⬛ | ⬛ | ⬛ |
-| <img src="https://cdn.modrinth.com/data/zCh7omyG/6e077f9529b6789aed7696655d8fd84758e1b54e_96.webp" width="32"> | [Better Archeology](https://modrinth.com/mod/better-archeology) | ✅ | ⬛ | ❌ | ⬛ |
+| Icon | Mod Name | Music Discs | Armor Tooltips | Enchant Icons | Smithing Icons | Other |
+|------|----------|-------------|----------------|---------------|----------------|-------|
+| <img src="https://cdn.modrinth.com/data/mOgUt4GM/5a20ed1450a0e1e79a1fe04e61bb4e5878bf1d20.png" width="32"> | [Mod Menu](https://modrinth.com/mod/modmenu) | ⬛ | ⬛ | ⬛ | ⬛ | ✅ |
+| <img src="https://cdn.modrinth.com/data/UCovMYfx/4be6ede472999ac6a361e42701d5c976fcd78a34_96.webp" width="32"> | [Elysium Core](https://modrinth.com/mod/elysium-core) | ⬛ | ⬛ | ⬛ | ⬛ | ✅ |
+| <img src="https://cdn.modrinth.com/data/HXF82T3G/ffb870e12c325b795d54833f8f899126553ef06f.png" width="32"> | [Biomes O' Plenty](https://modrinth.com/mod/biomes-o-plenty) | ✅ | ⬛ | ⬛ | ⬛ | ⬛ |
+| <img src="https://cdn.modrinth.com/data/JGfljjtd/87262a2ee2887548c65e32e9462e15178abdcfa9_96.webp" width="32"> | [End's Phantasm](https://modrinth.com/mod/ends-phantasm) | ✅ | ⬛ | ⬛ | ⬛ | ⬛ |
+| <img src="https://cdn.modrinth.com/data/W4vtjnfp/6f764f13c8e50c72e28d041e31afff57e3d69787_96.webp" width="32"> | [Backported Discs](https://modrinth.com/mod/backported-discs) | ✅ | ⬛ | ⬛ | ⬛ | ⬛ |
+| <img src="https://cdn.modrinth.com/data/iSN6eXzl/4a4cf15fa372a119ac6342ef5435caf0272e2ac6.gif" width="32"> | [Pure Discs - Trails & Tales](https://modrinth.com/mod/purediscstrailstales) | ✅ | ⬛ | ⬛ | ⬛ | ⬛ |
+| <img src="https://cdn.modrinth.com/data/W3alKOSq/5c7a7134e3c46ab3f269d812ef47a17f3730ba4b.gif" width="32"> | [Pure Discs - Tricky Trials](https://modrinth.com/mod/purediscstrickytrials) | ✅ | ⬛ | ⬛ | ⬛ | ⬛ |
+| <img src="https://cdn.modrinth.com/data/fFEIiSDQ/e9f5f66fa3b67e54acb91258a1428d68311c58bc_96.webp" width="32"> | [Supplementaries](https://modrinth.com/mod/supplementaries) | ✅ | ⬛ | ✅ | ✅ | ⬛ |
+| <img src="https://cdn.modrinth.com/data/zi5opIfD/f728b8bfc8205fe5e508c055a03792acee65d003_96.webp" width="32"> | [Happy Ghast Legacy](https://modrinth.com/mod/happy-ghast-legacy) | ✅ | ⬛ | ⬛ | ⬛ | ⬛ |
+| <img src="https://cdn.modrinth.com/data/HaIJSYr6/daef59825cebd044d07629c4befb18c86c476cae_96.webp" width="32"> | [Snow Pig (Fabric)](https://modrinth.com/mod/snowpig-fabric) | ✅ | ⬛ | ⬛ | ⬛ | ⬛ |
+| <img src="https://cdn.modrinth.com/data/k23mNPhZ/e33ffb391c8c05f1ea99b09d00d5369e0ac44ae7_96.webp" width="32"> | [Aquamirae](https://modrinth.com/mod/aquamirae) | ✅ | ❌ | ⬛ | ⬛ | ⬛ |
+| <img src="https://cdn.modrinth.com/data/QivVPB8W/0549285b940156bca595f49a05aaf22916e87b0f_96.webp" width="32"> | [The Graveyard (Fabric)](https://modrinth.com/mod/the-graveyard-fabric) | ✅ | ⬛ | ⬛ | ⬛ | ⬛ |
+| <img src="https://cdn.modrinth.com/data/QOJOg1gE/305970c55e689be5950c9cdf60fa08c49c8cad7b_96.webp" width="32"> | [It Takes a Pillage Continuation](https://modrinth.com/mod/it-takes-a-pillage-continuation) | ✅ | ⬛ | ⬛ | ⬛ | ⬛ |
+| <img src="https://cdn.modrinth.com/data/kt3BLgXB/6323060551684be5f2ec470fa4b5ec9fd25e7d29_96.webp" width="32"> | [Bygone Nether](https://modrinth.com/mod/bygone-nether) | ✅ | ⬛ | ⬛ | ⬛ | ⬛ |
+| <img src="https://cdn.modrinth.com/data/s6R4jmL8/cd258579b012c6c7f9088538e88bff8245c6b63c_96.webp" width="32"> | [Eternal Nether](https://modrinth.com/mod/eternal-nether) | ✅ | ⬛ | ⬛ | ⬛ | ⬛ |
+| <img src="https://cdn.modrinth.com/data/QYfKDJOV/72721f5d83b1c161068493763f072f43d535cc69_96.webp" width="32"> | [Gipples Galore](https://modrinth.com/mod/gipples-galore) | ✅ | ⬛ | ⬛ | ⬛ | ⬛ |
+| <img src="https://cdn.modrinth.com/data/UiFDlI7w/1dd68c373faa090acd45e26ae3ad16bb3f33b094_96.webp" width="32"> | [Snowy Spirit](https://modrinth.com/mod/snowy-spirit) | ✅ | ⬛ | ⬛ | ⬛ | ⬛ |
+| <img src="https://cdn.modrinth.com/data/CFX9ftUJ/a6ab22b94673ec7f080ab893bd3d120db7fa05c3_96.webp" width="32"> | [Advanced Netherite](https://modrinth.com/mod/advanced-netherite) | ⬛ | ✅ | ⬛ | ⬛ | ⬛ |
+| <img src="https://cdn.modrinth.com/data/fnAffV0n/be8023f374038c6bd8a52a0e5b2cbc4eb1a37746_96.webp" width="32"> | [Deeper and Darker](https://modrinth.com/mod/deeperdarker) | ⬛ | ✅ | ✅ | ✅ | ⬛ |
+| <img src="https://cdn.modrinth.com/data/nDFVOeq7/e5b91cdcb14e9be07420ceccf766bd71c3c98849_96.webp" width="32"> | [Simple Netherite Horse Armor](https://modrinth.com/mod/simple-netherite-horse-armor) | ⬛ | ✅ | ⬛ | ⬛ | ⬛ |
+| <img src="https://cdn.modrinth.com/data/d6MhxwRo/04b84b747ee4d3f66960d42f6014c2030b26e3ea_96.webp" width="32"> | [Soul Fire'd](https://modrinth.com/mod/soul-fire-d) | ⬛ | ⬛ | ✅ | ⬛ | ⬛ |
+| <img src="https://cdn.modrinth.com/data/bRAPbNyF/35aee97b92478e08c3fd96ceed2d16c4f8d036b3.png" width="32"> | [Vein Mining](https://modrinth.com/mod/vein-mining) | ⬛ | ⬛ | ✅ | ⬛ | ⬛ |
+| <img src="https://cdn.modrinth.com/data/aV1COQ7a/4c4ceb43a1588b9ddf7ff76c39358be1d58bdd66_96.webp" width="32"> | [Guarding](https://modrinth.com/mod/guarding) | ⬛ | ⬛ | ✅ | ⬛ | ⬛ |
+| <img src="https://cdn.modrinth.com/data/b8kG1VGq/7ee046278d6884fe7fb7c4e72cf35eae22ecd4a2_96.webp" width="32"> | [Aileron](https://modrinth.com/mod/aileron) | ⬛ | ⬛ | ✅ | ⬛ | ⬛ |
+| <img src="https://cdn.modrinth.com/data/vI1QKJro/e64111a7ee741940fdc5329b666a3b76845e461e_96.webp" width="32"> | [Nether Depths Upgrade](https://modrinth.com/mod/nether-depths-upgrade) | ⬛ | ⬛ | ✅ | ⬛ | ⬛ |
+| <img src="https://cdn.modrinth.com/data/HnD1GX6e/a03a09e4f94b4b680b586df36c35dd68a10b187e_96.webp" width="32"> | [You're in Grave Danger](https://modrinth.com/mod/yigd) | ⬛ | ⬛ | ✅ | ⬛ | ⬛ |
+| <img src="https://cdn.modrinth.com/data/kjeo1Vlk/af829c205fc3f0386eafb834304f3975b1559772.png" width="32"> | [Chai's Elytra Enchants](https://modrinth.com/mod/chais-elytra-enchants) | ⬛ | ⬛ | ✅ | ⬛ | ⬛ |
+| <img src="https://cdn.modrinth.com/data/7vxePowz/26e8448993e9bda4dba92b6e7a1a13d9c4333138.png" width="32"> | [Farmer's Delight Refabricated](https://modrinth.com/mod/farmers-delight-refabricated) | ⬛ | ⬛ | ✅ | ⬛ | ⬛ |
+| <img src="https://cdn.modrinth.com/data/btCrWvHr/2981bba805f7c2604b09974d20e566d3ba3b3cdc_96.webp" width="32"> | [Enderscape](https://modrinth.com/mod/enderscape) | ✅ | ⬛ | ✅ | ✅ | ⬛ |
+| <img src="https://cdn.modrinth.com/data/POQ2i9zu/0d5db692d86ca2f99935ebc01123d4c55a714122_96.webp" width="32"> | [Friends&Foes](https://modrinth.com/mod/friends-and-foes) | ✅ | ⬛ | ⬛ | ⬛ | ⬛ |
+| <img src="https://cdn.modrinth.com/data/zCh7omyG/6e077f9529b6789aed7696655d8fd84758e1b54e_96.webp" width="32"> | [Better Archeology](https://modrinth.com/mod/better-archeology) | ✅ | ⬛ | ✅ | ⬛ | ⬛ |
+| <img src="https://cdn.modrinth.com/data/GyVUSbid/9e87b1289a29e2d166ef6b5cbe6a2a577e36abf4_96.webp" width="32"> | [Sortilege](https://modrinth.com/mod/sortilege) | ⬛ | ⬛ | ✅ | ⬛ | ✅ |
+| <img src="https://cdn.modrinth.com/data/F8BQNPWX/e52917ba0f5ecc1d827f0d4465a15422e0584bf5_96.webp" width="32"> | [Naturalist](https://modrinth.com/mod/naturalist) | ✅ | ⬛ | ⬛ | ⬛ | ⬛ |
+| <img src="https://cdn.modrinth.com/data/FGNYBAJ6/b1f3040a60407c173d63438dcb8128b85e1e6fb9_96.webp" width="32"> | [More Armor Trims](https://modrinth.com/mod/more-armor-trims) | ⬛ | ⬛ | ⬛ | ✅ | ⬛ |
+| <img src="https://cdn.modrinth.com/data/smUP7V3r/icon.png" width="32"> | [Durability Tooltip](https://modrinth.com/mod/durability-tooltip) | ⬛ | ⬛ | ⬛ | ⬛ | ✅ |
+| <img src="https://cdn.modrinth.com/data/5sy6g3kz/4d59a2a1ddd25f977b39c89e391edc4cdc7c71ba_96.webp" width="32"> | [Better Combat](https://modrinth.com/mod/better-combat) | ⬛ | ⬛ | ⬛ | ⬛ | ✅ |
+| <img src="https://cdn.modrinth.com/data/vuGFx44e/192346136bf85057e4602adade6eae5a324f7323.png" width="32"> | [Tool Stats](https://modrinth.com/mod/tool-stats) | ⬛ | ⬛ | ⬛ | ⬛ | ✅ |
 <!-- prettier-ignore-end -->
 
 ---
