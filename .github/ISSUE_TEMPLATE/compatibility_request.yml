@@ -1,10 +1,10 @@
-name: Suggestion
+name: Compatibility Request
 description: 'Request a mod to add compatibility with!'
-title: '[Suggestion]: '
+title: '[Compatibility Request]: '
 assignees:
   - Fyoncle
 labels:
-  - suggestion
+  - compatibility
 body:
   - type: input
     id: mod_name
