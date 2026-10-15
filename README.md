@@ -70,15 +70,16 @@ It also integrates with [Respackopts](https://modrinth.com/mod/respackopts) so y
 <img src="https://wsrv.nl/?url=https://i.ibb.co/N9s5hz1/github.png" alt="GitHub"></a> 
   
 The mod you need compatibility for isn't there? **Open a suggestion on [GitHub](https://github.com/Fyoncle/Icons-Compats/issues/new?template=feature_request.yml)!**
-</div>
 
 ---
 
-### Credits:
+### Credits
 
-- Some icons were taken from [Icons](https://modrinth.com/resourcepack/icons) with permission and modified to fit their modded counter-parts.
-- That incredible logo of Icons Compats is made by [Vixel](https://modrinth.com/user/Vixel)!
+Some icons were taken from [Icons](https://modrinth.com/resourcepack/icons) with permission and modified to fit their modded counter-parts.
+That incredible logo of Icons Compats is made by [Vixel](https://modrinth.com/user/Vixel)!
 
 ![Permission](https://cdn.modrinth.com/data/cached_images/0acb0eb29b71cf34d9d1034707c098dcd23f7760.png)
 
 [![Kinetic Hosting](https://github.com/Fyoncle/Elysium-Days/blob/main/kinetic_banner.png?raw=true)](https://billing.kinetichosting.com/aff.php?aff=1616)
+
+</div>
