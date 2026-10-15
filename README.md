@@ -60,6 +60,8 @@ It also integrates with [Respackopts](https://modrinth.com/mod/respackopts) so y
 | <img src="https://cdn.modrinth.com/data/smUP7V3r/icon.png" width="32"> | [Durability Tooltip](https://modrinth.com/mod/durability-tooltip) | ⬛ | ⬛ | ⬛ | ⬛ | ✅ |
 | <img src="https://cdn.modrinth.com/data/5sy6g3kz/4d59a2a1ddd25f977b39c89e391edc4cdc7c71ba_96.webp" width="32"> | [Better Combat](https://modrinth.com/mod/better-combat) | ⬛ | ⬛ | ⬛ | ⬛ | ✅ |
 | <img src="https://cdn.modrinth.com/data/vuGFx44e/192346136bf85057e4602adade6eae5a324f7323.png" width="32"> | [Tool Stats](https://modrinth.com/mod/tool-stats) | ⬛ | ⬛ | ⬛ | ⬛ | ✅ |
+| <img src="https://cdn.modrinth.com/data/OCvCFPNR/7128828e20839f8a17b8d8455c4fffc94eadc951_96.webp" width="32"> | [Custom LAN](https://modrinth.com/mod/custom-lan) | ⬛ | ⬛ | ⬛ | ⬛ | ✅ |
+| <img src="https://cdn.modrinth.com/data/tpehi7ww/429ba22d212868940cdd82465df949ac51c9791e_96.webp" width="32"> | [Dungeons and Taverns](https://modrinth.com/datapack/dungeons-and-taverns) | ⬛ | ⬛ | ✅ | ⬛ | ⬛ |
 <!-- prettier-ignore-end -->
 
 ---
@@ -78,3 +80,5 @@ The mod you need compatibility for isn't there? **Open a suggestion on [GitHub](
 - That incredible logo of Icons Compats is made by [Vixel](https://modrinth.com/user/Vixel)!
 
 ![Permission](https://cdn.modrinth.com/data/cached_images/0acb0eb29b71cf34d9d1034707c098dcd23f7760.png)
+
+[![Kinetic Hosting](https://github.com/Fyoncle/Elysium-Days/blob/main/kinetic_banner.png?raw=true)](https://billing.kinetichosting.com/aff.php?aff=1616)
